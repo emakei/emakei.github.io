@@ -1,2 +1,3 @@
 # emakei.github.io
-My personal website
+My personal website in development.
+But you can check my [GitHub](https://github.com/emakei)
