@@ -2,3 +2,4 @@
 
 My personal website in development.
 But you can check my [GitHub](https://github.com/emakei) or [Infostart](https://infostart.ru/profile/297497/)
+Или почитать пока [Stihi.ru](https://stihi.ru/avtor/emakei)
